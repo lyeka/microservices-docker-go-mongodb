@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/mmorejon/cinema/movies/controllers"
+	"github.com/lyeka/microservices-docker-go-mongodb/movies/controllers"
 )
 
 func setMovieRouters(router *mux.Router) *mux.Router {

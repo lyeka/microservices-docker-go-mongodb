@@ -3,7 +3,7 @@ package controllers
 import (
 	"gopkg.in/mgo.v2"
 
-	"github.com/mmorejon/cinema/movies/common"
+	"github.com/lyeka/microservices-docker-go-mongodb/movies/common"
 )
 
 // Struct used for maintaining HTTP Request Context

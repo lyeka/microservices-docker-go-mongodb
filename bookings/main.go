@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mmorejon/cinema/bookings/common"
-	"github.com/mmorejon/cinema/bookings/routers"
+	"github.com/lyeka/microservices-docker-go-mongodb/bookings/common"
+	"github.com/lyeka/microservices-docker-go-mongodb/bookings/routers"
 )
 
 // Entry point for the program

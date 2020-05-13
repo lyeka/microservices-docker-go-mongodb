@@ -3,7 +3,7 @@ project: cinema
 component: movies
 
 image:
-  repository: mmorejon/cinema-movies
+  repository: lyeka/microservices-docker-go-mongodb-movies
   tag: 1.1.1
   pullPolicy: IfNotPresent
 ## replicas number for each component

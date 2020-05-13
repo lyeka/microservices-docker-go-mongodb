@@ -3,7 +3,7 @@ project: cinema
 component: users
 
 image:
-  repository: mmorejon/cinema-users
+  repository: lyeka/microservices-docker-go-mongodb-users
   tag: 1.1.1
   pullPolicy: IfNotPresent
 ## replicas number for each component

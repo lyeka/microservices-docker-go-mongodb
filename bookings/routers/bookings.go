@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/mmorejon/cinema/bookings/controllers"
+	"github.com/lyeka/microservices-docker-go-mongodb/bookings/controllers"
 )
 
 func SetBookingsRouters(router *mux.Router) *mux.Router {

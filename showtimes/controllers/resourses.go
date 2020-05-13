@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/mmorejon/cinema/showtimes/models"
+	"github.com/lyeka/microservices-docker-go-mongodb/showtimes/models"
 )
 
 type (

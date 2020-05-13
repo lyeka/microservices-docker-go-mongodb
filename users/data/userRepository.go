@@ -1,7 +1,7 @@
 package data
 
 import (
-	"github.com/mmorejon/cinema/users/models"
+	"github.com/lyeka/microservices-docker-go-mongodb/users/models"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

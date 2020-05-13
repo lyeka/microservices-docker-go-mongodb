@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/mmorejon/cinema/movies/models"
+	"github.com/lyeka/microservices-docker-go-mongodb/movies/models"
 )
 
 type (

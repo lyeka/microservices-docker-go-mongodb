@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/mmorejon/cinema/showtimes/controllers"
+	"github.com/lyeka/microservices-docker-go-mongodb/showtimes/controllers"
 )
 
 func SetShowTimeRouters(router *mux.Router) *mux.Router {

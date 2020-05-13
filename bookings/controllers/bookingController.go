@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/mmorejon/cinema/bookings/common"
-	"github.com/mmorejon/cinema/bookings/data"
+	"github.com/lyeka/microservices-docker-go-mongodb/bookings/common"
+	"github.com/lyeka/microservices-docker-go-mongodb/bookings/data"
 )
 
 // Handler for HTTP Post - "/bookins"
